@@ -1,0 +1,25 @@
+/**
+ * Project: Generate phpMyAdmin Signon links
+ *
+ * This file belongs to CloudStick LLC.
+ *
+ * @author   CloudStick LLC
+ * @version  1.0
+ * @copyright 2020
+ * CloudStick LLC CONFIDENTIAL
+ * __________________
+ * 
+ * [2020] CloudStick LLC
+ * All Rights Reserved.
+ * NOTICE:  All information contained herein is, and remains
+ * the property of CloudStick LLC and its suppliers
+ * if any.  The intellectual and technical concepts contained
+ * herein are proprietary to CloudStick LLC
+ * and its suppliers and may be covered by U.S. and Foreign Patents,
+ * patents in process, and are protected by trade secret or copyright law.
+ * Dissemination of this information or reproduction or resell or lease or modify of this material
+ * is strictly forbidden unless prior written permission is obtained
+ * from CloudStick LLC.
+ */ 
+
+1. Contact if any queries @ info@cloudstick.io

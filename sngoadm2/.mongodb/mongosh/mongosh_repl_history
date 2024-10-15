@@ -1,0 +1,30 @@
+db.user_registers.find({ phone: '9037342335' }).pretty()
+db.user_registers.find().pretty()
+db.user_registers.deleteMany({})
+db.user_registers.find({ phone: '9037342335' }).pretty()
+db.user_registers.find({ phone: '9876543210' }).pretty()
+db.user_registers.find().pretty()
+show collections
+use searchngo
+db.roles.find().pretty()
+db.clients.find().pretty()
+show collections
+use searchngo
+db.users.find()
+show collections
+use searchngo
+show dbs
+show collections
+show collection
+show collections
+use serchngo"_id": ObjectId("669fcc52e681913a18482f8b"), "name": "Client Admin", "slug": "ROLE_CLIENT_ADMIN" }, { "_id": ObjectId("669fcf3d43553c0d68482f98"), "name": "INVESTOR", "slug": "ROLE_INVESTOR" }, { "_id": ObjectId("669fcf4243553c0d68482f99"), "name": "POS", "slug": "ROLE_POS" }, { "_id": ObjectId("669fcf4643553c0d68482f9a"), "name": "COORDINATOR", "slug": "ROLE_COORDINATOR" }, { "_id": ObjectId("669fcf6843553c0d68482f9b"), "name": "ACCOUNTANT", "slug": "ROLE_ACCOUNTANT" }, { "_id": ObjectId("669fcf6e43553c0d68482f9c"), "name": "PLANT_MANAGER", "slug": "ROLE_PLANT_MANAGER" }, { "_id": ObjectId("669fcf7443553c0d68482f9d"), "name": "STORE_MANAGER", "slug": "ROLE_STORE_MANAGER" }, { "_id": ObjectId("669fcf7943553c0d68482f9e"), "name": "KITCHEN_MANAGER", "slug": "ROLE_KITCHEN_MANAGER" }] )
+db.admins.insertOne({ "_id": ObjectId("669fcbf313648cac7716ebd3"), "email": "superadmin@camp.com", "password": "$2a$08$PqPwRj6Htcd7fVaTg8KjmOHkgZcFEnPu/9BLgXCrj8LDwmQqwO9mS", "role_id": ObjectId("669fcae9a771fbcee7482f8b"), "createdAt": ISODate("2024-07-23T15:27:47.981Z"), "updatedAt": ISODate("2024-07-23T15:27:47.981Z"), "__v": 0 })
+show collections
+use searchngo
+show collections
+use searchngo
+show dbs
+show collections
+show collection
+show collections
+use serchngo

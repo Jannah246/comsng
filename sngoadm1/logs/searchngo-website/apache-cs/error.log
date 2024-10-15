@@ -1,0 +1,22 @@
+[Tue Sep 24 13:26:46.189852 2024] [cgid:error] [pid 285437:tid 140593263011584] [client 172.69.60.187:0] AH01264: script not found or unable to stat: /CloudStick/Packages/apache2-cs/cgi-bin/.env
+[Tue Sep 24 13:29:02.629436 2024] [proxy_fcgi:error] [pid 73136:tid 140592851965696] [client 172.69.60.187:0] AH01071: Got error 'Primary script unknown'
+[Tue Sep 24 13:33:20.307086 2024] [proxy_fcgi:error] [pid 73136:tid 140593766311680] [client 172.68.210.22:0] AH01071: Got error 'Primary script unknown'
+[Tue Sep 24 13:33:20.741976 2024] [proxy_fcgi:error] [pid 73136:tid 140593757918976] [client 172.68.210.22:0] AH01071: Got error 'Primary script unknown'
+[Tue Sep 24 13:33:29.634536 2024] [proxy_fcgi:error] [pid 285437:tid 140592180877056] [client 172.68.210.22:0] AH01071: Got error 'Primary script unknown'
+[Tue Sep 24 13:33:30.928877 2024] [proxy_fcgi:error] [pid 73134:tid 140593564985088] [client 172.68.210.22:0] AH01071: Got error 'Primary script unknown'
+[Tue Sep 24 13:50:57.058118 2024] [cgid:error] [pid 285437:tid 140593120401152] [client 172.68.64.139:0] AH01264: script not found or unable to stat: /CloudStick/Packages/apache2-cs/cgi-bin/.env
+[Tue Sep 24 13:53:15.636943 2024] [proxy_fcgi:error] [pid 285437:tid 140593766311680] [client 172.68.64.139:0] AH01071: Got error 'Primary script unknown'
+[Tue Sep 24 13:57:33.674023 2024] [proxy_fcgi:error] [pid 285437:tid 140593246226176] [client 172.68.64.139:0] AH01071: Got error 'Primary script unknown'
+[Tue Sep 24 13:57:34.107212 2024] [proxy_fcgi:error] [pid 73135:tid 140593799882496] [client 172.68.64.139:0] AH01071: Got error 'Primary script unknown'
+[Tue Sep 24 13:57:42.986387 2024] [proxy_fcgi:error] [pid 285437:tid 140593112008448] [client 172.68.64.139:0] AH01071: Got error 'Primary script unknown'
+[Tue Sep 24 13:57:44.282904 2024] [proxy_fcgi:error] [pid 73134:tid 140593304942336] [client 172.68.64.139:0] AH01071: Got error 'Primary script unknown'
+[Sun Oct 06 20:52:18.730397 2024] [proxy_fcgi:error] [pid 635311:tid 140593623701248] [client 108.162.221.129:0] AH01071: Got error 'Primary script unknown'
+[Sun Oct 06 20:52:20.224217 2024] [proxy_fcgi:error] [pid 635311:tid 140593632093952] [client 108.162.221.88:0] AH01071: Got error 'Primary script unknown'
+[Mon Oct 07 09:39:03.678955 2024] [proxy_fcgi:error] [pid 635311:tid 140593791489792] [client 172.69.155.25:0] AH01071: Got error 'Primary script unknown'
+[Mon Oct 07 09:39:24.485682 2024] [proxy_fcgi:error] [pid 73134:tid 140592390596352] [client 172.69.155.24:0] AH01071: Got error 'Primary script unknown'
+[Mon Oct 07 09:39:42.028615 2024] [proxy_fcgi:error] [pid 635238:tid 140593783097088] [client 172.69.155.24:0] AH01071: Got error 'Primary script unknown'
+[Mon Oct 07 09:40:15.163101 2024] [proxy_fcgi:error] [pid 73136:tid 140593489483520] [client 172.69.155.25:0] AH01071: Got error 'Primary script unknown'
+[Mon Oct 07 09:40:20.829959 2024] [proxy_fcgi:error] [pid 635311:tid 140593808275200] [client 172.69.155.25:0] AH01071: Got error 'Primary script unknown'
+[Mon Oct 07 09:40:24.806352 2024] [proxy_fcgi:error] [pid 73135:tid 140592323487488] [client 172.69.155.24:0] AH01071: Got error 'Primary script unknown'
+[Mon Oct 07 09:41:11.873984 2024] [cgid:error] [pid 635311:tid 140593799882496] [client 172.69.155.25:0] AH01264: script not found or unable to stat: /CloudStick/Packages/apache2-cs/cgi-bin/cgi-bin
+[Mon Oct 07 09:41:12.059268 2024] [cgid:error] [pid 635238:tid 140593221048064] [client 172.69.155.25:0] AH01265: attempt to invoke directory as script: /CloudStick/Packages/apache2-cs/cgi-bin/
